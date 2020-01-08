@@ -1,7 +1,7 @@
 # BunnyMarkGame
 
 Write a bunnymark benchmark from scratch with Vulkan, to see how much faster can I do than cocos2d-x/pixijs.
-![](https://github.com/re-esper/BunnyMarkGame/blob/master/screenshot/my-bunnymark-windows.jpg =400x)
+<img src="https://github.com/re-esper/BunnyMarkGame/blob/master/screenshot/my-bunnymark-windows.jpg" width="400" height="300">
 
 ## Rules
 * Completely same with the pixijs's [original bunnymark](https://www.goodboydigital.com/pixijs/bunnymark/)([source code](https://www.goodboydigital.com/pixijs/bunnymark/js/bunnyBenchMark.js)), consistent features and resources.
