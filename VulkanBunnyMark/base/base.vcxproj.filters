@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\external\imgui\imgui.cpp" />
+    <ClCompile Include="..\external\imgui\imgui_draw.cpp" />
+    <ClCompile Include="..\external\imgui\imgui_widgets.cpp" />
+    <ClCompile Include="..\base\VulkanAndroid.cpp" />
+    <ClCompile Include="..\base\VulkanDebug.cpp" />
+    <ClCompile Include="..\base\VulkanTools.cpp" />
+    <ClCompile Include="..\base\VulkanUIOverlay.cpp" />
+    <ClCompile Include="VulkanFramework.cpp" />
+    <ClCompile Include="VulkanMemoryAllocator.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\base\VulkanBuffer.hpp" />
+    <ClInclude Include="..\base\VulkanDevice.hpp" />
+    <ClInclude Include="..\base\VulkanInitializers.hpp" />
+    <ClInclude Include="..\base\VulkanSwapChain.hpp" />
+    <ClInclude Include="..\base\VulkanTexture.hpp" />
+    <ClInclude Include="..\base\camera.hpp" />
+    <ClInclude Include="..\base\keycodes.hpp" />
+    <ClInclude Include="VulkanAndroid.h" />
+    <ClInclude Include="VulkanDebug.h" />
+    <ClInclude Include="VulkanTools.h" />
+    <ClInclude Include="VulkanUIOverlay.h" />
+    <ClInclude Include="VulkanFramework.h" />
+  </ItemGroup>
+</Project>
