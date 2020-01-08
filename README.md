@@ -19,7 +19,7 @@ My bunnymark is able to render **1,120,000** bunnies on my pc(Intel Core i7-7700
 
 #### Notes:
 1. cocos2d-x uses its latest version 4.0.
-2. cocos2d-x bunnymark modified `#define CC_USE_CULLING 0` at ccConfig.h to improve performance.
+2. cocos2d-x bunnymark modified with `#define CC_USE_CULLING 0` at ccConfig.h to improve performance.
 3. pixijs bunnymark uses the [original version](https://www.goodboydigital.com/pixijs/bunnymark/), instead of [this](https://pixijs.io/bunny-mark/), the original version is faster.
 
 ## Libraries
