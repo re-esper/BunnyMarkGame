@@ -23,7 +23,7 @@ My bunnymark is able to render **1,120,000** bunnies on my pc(Intel Core i7-7700
 3. pixijs bunnymark uses the [original version](https://www.goodboydigital.com/pixijs/bunnymark/), instead of [this](https://pixijs.io/bunny-mark/), the original version is much faster.
 
 ## Libraries
-The vulkan basic code of my bunnymark is based on SaschaWillems's [Vulkan Examples](https://github.com/SaschaWillems/Vulkan)
+The basic vulkan code of my bunnymark is based on SaschaWillems's [Vulkan Examples](https://github.com/SaschaWillems/Vulkan)
 
 My bunnymark utilizes the following open-source libraries:
 * [OpenGL Mathematics](https://github.com/g-truc/glm)
